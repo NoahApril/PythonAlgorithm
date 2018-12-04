@@ -1,2 +1,2 @@
 # PythonAlgorithm
-Python lerning
+Python learning
